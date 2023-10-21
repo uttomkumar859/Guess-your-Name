@@ -1,0 +1,24 @@
+.guess_content{
+    max-width: 700px;
+    margin: auto;
+}
+.guess_btn{
+    display: inline;
+    text-align: center;
+}
+.guess_btn button{
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 10px;
+}
+.Guess_select{
+    margin: auto;
+    font-size: 40px;
+    color: #fff;
+    display: block;
+    margin-top: 20px;
+    padding: 10px 50px;
+    cursor: pointer;
+    border: none;
+    background-color: green;
+}
